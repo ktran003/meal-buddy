@@ -1,0 +1,31 @@
+{
+    "groceryManager": {
+        "groceryList": [
+            {
+                "name": "Carrot",
+                "category": "Produce",
+                "purchasedStatus": false
+            },
+            {
+                "name": "Cheese",
+                "category": "Dairy\\",
+                "purchasedStatus": false
+            }
+        ],
+        "itemQuantities": [
+            {"quantity": 13},
+            {"quantity": 5}
+        ]
+    },
+    "budget": {
+        "purchaseDates": [
+            {"date": 9},
+            {"date": 1}
+        ],
+        "monthlyBudget": 750,
+        "spendingHistory": [
+            {"spendingAmount": 100},
+            {"spendingAmount": 250}
+        ]
+    }
+}

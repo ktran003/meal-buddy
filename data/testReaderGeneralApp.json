@@ -1,0 +1,33 @@
+{
+  "groceryManager": {
+    "groceryList": [
+      {
+        "name": "bread",
+        "category": "Bakery",
+        "purchasedStatus": false
+      },
+      {
+        "name": "chicken",
+        "category": "Meat & Fish",
+        "purchasedStatus": false
+      }
+    ],
+    "itemQuantities": [
+      {"quantity": 10},
+      {"quantity": 5}
+    ]
+  },
+  "budget": {
+    "purchaseDates": [
+      {"date": 1},
+      {"date": 10},
+      {"date": 21}
+    ],
+    "monthlyBudget": 1000,
+    "spendingHistory": [
+      {"spendingAmount": 100},
+      {"spendingAmount": 250},
+      {"spendingAmount": 80}
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "groceryManager": {
+        "groceryList": [
+            {
+                "name": "milk",
+                "category": "Dairy",
+                "purchasedStatus": false
+            },
+            {
+                "name": "salmon",
+                "category": "Meat & Fish",
+                "purchasedStatus": false
+            }
+        ],
+        "itemQuantities": [
+            {"quantity": 5},
+            {"quantity": 3}
+        ]
+    },
+    "budget": {
+        "purchaseDates": [
+            {"date": 10},
+            {"date": 12}
+        ],
+        "monthlyBudget": 500,
+        "spendingHistory": [
+            {"spendingAmount": 100},
+            {"spendingAmount": 110}
+        ]
+    }
+}

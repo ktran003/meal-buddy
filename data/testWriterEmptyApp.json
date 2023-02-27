@@ -1,0 +1,11 @@
+{
+    "groceryManager": {
+        "groceryList": [],
+        "itemQuantities": []
+    },
+    "budget": {
+        "purchaseDates": [],
+        "monthlyBudget": 0,
+        "spendingHistory": []
+    }
+}
